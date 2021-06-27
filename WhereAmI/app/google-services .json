@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99699826153",
+    "project_id": "whereami-4c86d",
+    "storage_bucket": "whereami-4c86d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99699826153:android:283553a2e8f30b0458ff78",
+        "android_client_info": {
+          "package_name": "com.salman.whereami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99699826153-i64h3ae96ou2s3nqlje4d0m4nhi39l27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salman.whereami",
+            "certificate_hash": "6772681288a62de0c01a1440108ed1b1863c20d6"
+          }
+        },
+        {
+          "client_id": "99699826153-jnlafbb1n3g7ci103iqvi6tsds19go38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3aVo8MYCtviyz5uAIF47_NPupwLcGQXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99699826153-jnlafbb1n3g7ci103iqvi6tsds19go38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
